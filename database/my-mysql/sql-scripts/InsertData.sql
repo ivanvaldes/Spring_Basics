@@ -1,2 +1,2 @@
-INSERT INTO employees (first_name, last_name, department, email) 
-VALUES ('Lorenz', 'Vanthillo', 'IT', 'lvthillo@mail.com');
+INSERT INTO table_name (username, password) VALUES ('mimi', 'test');
+commit;
