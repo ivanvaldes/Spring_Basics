@@ -1,0 +1,4 @@
+docker build -t mysql-e-commerce .
+docker run -d -p 3308:3306 --name my-mysql -e MYSQL_ROOT_PASSWORD=n3n32020 mysql-e-commerce
+docker logs -f my-mysql
+docker stop my-mysql; docker rm my-mysql
