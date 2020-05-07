@@ -1,2 +1,2 @@
-INSERT INTO table_name (username, password) VALUES ('mimi', 'test');
+INSERT INTO USER (username, password) VALUES ('mimi', 'test');
 commit;
