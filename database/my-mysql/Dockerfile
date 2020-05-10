@@ -12,4 +12,3 @@ COPY ./sql-scripts/ /docker-entrypoint-initdb.d/
 #Run commands
 RUN apt-get update && apt-get install -y \
 vim
-
