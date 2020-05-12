@@ -21,4 +21,5 @@ repositories {
 
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-web:2.2.7.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter-thymeleaf:2.2.7.RELEASE'
 }
