@@ -2,74 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00b0dd13-8abf-4a09-b6bc-bfae890ed44b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ognl_ognl_3_1_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/gifs/android-explosion.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/gifs/ben-and-mike.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/gifs/book-dominos.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/gifs/compiler-bot.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/gifs/cowboy-coder.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/gifs/infinite-andrew.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/icons/favorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/icons/unfavorite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/jquery/jquery-1.11.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/css/materialize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/css/materialize.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/material-design-icons/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/material-design-icons/Material-Design-Icons.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/font/roboto/Roboto-Thin.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/js/materialize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/vendor/materialize/js/materialize.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/categories.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/favorites.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/gif-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/valdesasesores_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/valdesasesores_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/valdesasesores_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/valdesasesores_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/Controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/Controller/ProductController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/valdesasesores-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/valdesasesores-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/Controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/Controller/ProductController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,29 +22,7 @@
         </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="valdesasesores" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="valdesasesores" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="valdesasesores" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="application" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="valdesasesores" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -156,7 +67,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -334,22 +245,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1589256264456">
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1589258768122">
       <screen x="0" y="23" width="1280" height="740" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.740@0.23.1280.740" timestamp="1589256264456" />
-    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1589256264455">
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.740@0.23.1280.740" timestamp="1589258768122" />
+    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1589258768121">
       <screen x="0" y="23" width="1280" height="740" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.740@0.23.1280.740" timestamp="1589256264455" />
-    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1589256264455">
+    <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.740@0.23.1280.740" timestamp="1589258768121" />
+    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1589258768121">
       <screen x="0" y="23" width="1280" height="740" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.740@0.23.1280.740" timestamp="1589256264455" />
-    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1589256264456">
+    <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.740@0.23.1280.740" timestamp="1589258768121" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1589258768122">
       <screen x="0" y="23" width="1280" height="740" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.740@0.23.1280.740" timestamp="1589256264456" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.740@0.23.1280.740" timestamp="1589258768122" />
   </component>
   <component name="masterDetails">
     <states>
