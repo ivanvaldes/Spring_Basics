@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00b0dd13-8abf-4a09-b6bc-bfae890ed44b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/Controller/GifController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/data/GifRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/model/Gif.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/controller/GifController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/data/GifRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ecommerce/model/Gif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbasics/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbasics/data/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbasics/data/GifRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/springbasics/model/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
@@ -16,17 +13,21 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/valdesasesores.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/valdesasesores.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/valdesasesores_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/valdesasesores_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/valdesasesores_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/valdesasesores_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/Controller/ProductController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/valdesasesores-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/valdesasesores-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/gif-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/gif-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/Controller/ProductController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/gif-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/gif-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/Controller/GifController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/Controller/GifController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/data/GifRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/data/GifRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/model/Gif.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/ecommerce/model/Gif.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbasics/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/controller/GifController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbasics/controller/GifController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/data/GifRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ecommerce/model/Gif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/springbasics/model/Gif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/categories.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/categories.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/category.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/category.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,12 +63,6 @@
                 <item name="valdesasesores" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="application" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="valdesasesores" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -118,9 +113,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.spring.controller" />
+      <recent name="com.ecommerce.data" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
@@ -292,26 +291,30 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1589336915004">
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1589424251495">
       <screen x="0" y="23" width="1280" height="740" />
     </state>
-    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/0.23.1280.740@0.23.1280.740" timestamp="1589336915004" />
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1589340853954">
+    <state x="453" y="116" key="#com.intellij.ide.util.MemberChooser/0.23.1280.740@0.23.1280.740" timestamp="1589424251495" />
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1589429450115">
       <screen x="0" y="23" width="1280" height="740" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.740@0.23.1280.740" timestamp="1589340853954" />
-    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1589340853953">
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.740@0.23.1280.740" timestamp="1589429450115" />
+    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1589429450114">
       <screen x="0" y="23" width="1280" height="740" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.740@0.23.1280.740" timestamp="1589340853953" />
-    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1589340853952">
+    <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.740@0.23.1280.740" timestamp="1589429450114" />
+    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1589429450113">
       <screen x="0" y="23" width="1280" height="740" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.740@0.23.1280.740" timestamp="1589340853952" />
-    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1589340853953">
+    <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.740@0.23.1280.740" timestamp="1589429450113" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1589429450114">
       <screen x="0" y="23" width="1280" height="740" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.740@0.23.1280.740" timestamp="1589340853953" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.740@0.23.1280.740" timestamp="1589429450114" />
+    <state x="341" y="25" width="598" height="735" key="find.popup" timestamp="1589426678249">
+      <screen x="0" y="23" width="1280" height="740" />
+    </state>
+    <state x="341" y="25" width="598" height="735" key="find.popup/0.23.1280.740@0.23.1280.740" timestamp="1589426678249" />
   </component>
   <component name="masterDetails">
     <states>

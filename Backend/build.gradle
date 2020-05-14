@@ -1,4 +1,4 @@
-group 'com.ecommerce'
+group 'com.springbasics'
 version '1.0-SNAPSHOT'
 
 buildscript {
@@ -22,4 +22,8 @@ repositories {
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-web:2.2.7.RELEASE'
     compile 'org.springframework.boot:spring-boot-starter-thymeleaf:2.2.7.RELEASE'
+}
+
+springBoot {
+    mainClassName = "com.springbasics.AppConfig"
 }
